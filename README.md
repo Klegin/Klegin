@@ -1,4 +1,6 @@
-## Hi there 👋
+## new layout in progress to be linked with Vercel, here's a very sketchy preview
+![image](https://github.com/user-attachments/assets/ab62765f-8265-498f-8970-f7ee5d67b650)
+
 
 <!--
 **Klegin/Klegin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
